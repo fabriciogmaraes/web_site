@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página principal</title>
+    <link rel="stylesheet" href="base.css">
+</head>
+<body>
+    <div class="wrapper">
+        <div class="menu">
+                <li><a href="#">Página principal</a></li><br>
+                <li><a href="planos.html">Planos e valores</a></li><br>
+                <li><a href="contato.html">Contato</a></li>
+        </div>
+
+        <div class="main">
+            <div class="header">
+                <h1>
+                    <img src="escudo_abc.png" title="Logo ABC F.C" width="100">
+                    SEJA SOCIO TORCEDOR M90
+                    <img src="m90_logo.png" title="Logo M90" width="75">
+                </h1>
+                <p>Fique por dentro de todas as informações da nossa torcida Movimento 90</p>
+            </div>
+
+            <div class="content">
+                <h3>O Programa Sócio Organizado</h3>
+                <p>O programa "Sócio Organizado" é o programa de sócio torcedor do<br>
+                ABC Futebol clube, maior clube de futebol do Rio Grande do Norte,<br>
+                em conjunto das torcidas organizadas do estado. 
+                <br>
+                <br>
+                Os planos de sócio torcedor oferecem uma gama de vantagens exclusivas<br>
+                para os fãs do Clube. Associe-se já.</p><br><br>
+                <img src="foto_torcida.jpg" title="Torcida do ABC" width="250"/>
+            </div>
+
+            <div class="footer">
+                <b>Endereço</b><br>
+                Casa da M90<br>
+                Avenida das Torcidas, 9090 - Ponta Negra<br>
+                <br>
+                <b>Horários de Atendimentos</b><br>
+                De segunda à sábado das 10h às 20h<br>
+                Aos domingos e feriados das 14h às 20h
+
+            </div>
+
+        </div>
+    </div>
+</body>
+</html>
