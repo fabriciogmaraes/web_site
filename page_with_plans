@@ -1,0 +1,85 @@
+<!DOCTYPE planos>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Planos e valores</title>
+    <link rel="stylesheet" href="base.css">
+    <style>
+        table {
+            width: 50%;
+            border-collapse: collapse;
+            margin: 20px auto;
+        }
+        th, td {
+            border: 1px solid #000;
+            text-align: center;
+            padding: 8px;
+        }
+        th {
+            background-color: #f4f4f4;
+        }
+    </style>
+</head>
+<body>
+    <div class="wrapper">
+        <div class="menu">
+                <li><a href="principal.html">Página principal</a></li><br>
+                <li><a href="#">Planos e valores</a></li><br>
+                <li><a href="contato.html">Contato</a></li>
+        </div>
+
+        <div class="main">
+            <div class="header">
+                <h1>
+                    <img title="foto_a" src="escudo_abc.png" title="Logo ABC F.C" width="100">
+                    SEJA SOCIO TORCEDOR M90
+                    <img title="foto_b" src="m90_logo.png" title="Logo M90" width="75">
+                </h1>
+                <p>Fique por dentro de todas as informações da nossa torcida Movimento 90</p>
+            </div>
+
+            <div class="content">
+                <h3>Planos e valores</h3>
+                <table>
+                    <tr>
+                        <th>Plano</th>
+                        <th>Valor mensal</th>
+                        <th>Direito ao sócio ABC</th>
+                    </tr>
+                    <tr>
+                        <th>Sócio1</th>
+                        <th>R$ 15,00</th>
+                        <th>Sim</th>
+                    </tr>
+                    <tr>
+                        <th>Sócio2</th>
+                        <th>R$ 10,00</th>
+                        <th>Não</th>
+                    </tr>
+                    <tr>
+                        <th>Sócio3</th>
+                        <th>R$ 5,00</th>
+                        <th>Não</th>
+                    </tr>
+                </table>
+
+                <a href="formulario.html" target="_blank"><button>Inscreva-se</button></a>
+            </div>
+
+
+            <div class="footer">
+                <b>Endereço</b><br>
+                Casa da M90<br>
+                Avenida das Torcidas, 9090 - Ponta Negra<br>
+                <br>
+                <b>Horários de Atendimentos</b><br>
+                De segunda à sábado das 10h às 20h<br>
+                Aos domingos e feriados das 14h às 20h
+
+            </div>
+
+        </div>
+    </div>
+</body>
+</html>
