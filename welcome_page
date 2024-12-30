@@ -1,0 +1,27 @@
+<!DOCTYPE planos>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seja bem vindo</title>
+    <link rel="stylesheet" href="base.css">
+</head>
+<body>
+        <div class="main">
+            <div class="header_insc">
+                <h1>
+                    <img title="foto_a" src="escudo_abc.png" title="Logo ABC F.C" width="100">
+                    <img title="foto_b" src="m90_logo.png" title="Logo M90" width="75"><br><br>
+                    OBRIGADO POR SE <br>
+                    ASSOCIAR CONOSCO <br><br><br>
+                    <img title="foto_b" src="mov_90_cabeçalho.jpeg" title="Logo M90" width="175"><br>
+
+                    
+                </h1>
+                <p>Seja bem vindo a família Movimento 90</p>
+            </div>
+
+        </div>
+    </div>
+</body>
+</html>
