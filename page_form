@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário de Inscrição</title>
+</head>
+<body>
+    <div>
+        <h1>
+        <img title="Logo ABC F.C." src="escudo_abc.png" width="100"/>
+        SEJA SÓCIO M90 
+        <img title="Logo M90" src="m90_logo.png" width="75"/>
+        </h1>
+    </div>
+    <br>
+    <div>
+        Nome: <input type="text" name="Nome" id=""><br><br>
+        Idade: <input type="number" name="Idade" id=""><br><br>
+        Email: <input type="email" name="Email" id=""><br><br>
+        Telefone: <input type="tel" name="Telefone" id=""><br><br>
+        Foto para perfil: <input type="file" name="Foto" id=""><br>
+        <p>Escolha o plano:</p>
+        <label>
+            <input type="radio" name="Plano" value="Plano1">
+            Plano1 - R$ 15,00 mensal
+        </label>
+        <br>
+        <label>
+            <input type="radio" name="Plano" value="Plano2">
+            Plano2 - R$ 10,00 mensal
+        </label>
+        <br>
+        <label>
+            <input type="radio" name="Plano" value="Plano3">
+            Plano3 - R$ 5,00 mensal
+        </label><br><br><br><br>
+        
+        <a href="bemvindo.html">
+            <button type="button">Enviar</button>
+        </a>
+    </div>
+</body>
+</html>
