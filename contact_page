@@ -1,0 +1,78 @@
+<!DOCTYPE planos>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contatos</title>
+    <link rel="stylesheet" href="base.css">
+    <style>
+        table {
+            width: 50%;
+            border-collapse: collapse;
+            margin: 20px auto;
+        }
+        th, td {
+            border: 1px solid #000;
+            text-align: center;
+            padding: 8px;
+        }
+        th {
+            background-color: #f4f4f4;
+        }
+    </style>
+</head>
+<body>
+    <div class="wrapper">
+        <div class="menu">
+                <li><a href="principal.html">Página principal</a></li><br>
+                <li><a href="planos.html">Planos e valores</a></li><br>
+                <li><a href="#">Contato</a></li>
+        </div>
+
+        <div class="main">
+            <div class="header">
+                <h1>
+                    <img title="foto_a" src="escudo_abc.png" title="Logo ABC F.C" width="100">
+                    SEJA SOCIO TORCEDOR M90
+                    <img title="foto_b" src="m90_logo.png" title="Logo M90" width="75">
+                </h1>
+                <p>Fique por dentro de todas as informações da nossa torcida Movimento 90</p>
+            </div>
+
+            <div class="content">
+                <h3>Contatos</h3>
+                <table>
+                    <tr>
+                        <th>Lojas</th>
+                        <th>Número</th>
+                        <th>WhatsApp</th>
+                    </tr>
+                    <tr>
+                        <th>Loja1</th>
+                        <th>(84) 99999-9090</th>
+                        <th>Sim</th>
+                    </tr>
+                    <tr>
+                        <th>Loja2</th>
+                        <th>(84) 99999-9191</th>
+                        <th>Não</th>
+                    </tr>
+                </table>
+            </div>
+
+
+            <div class="footer">
+                <b>Endereço</b><br>
+                Casa da M90<br>
+                Avenida das Torcidas, 9090 - Ponta Negra<br>
+                <br>
+                <b>Horários de Atendimentos</b><br>
+                De segunda à sábado das 10h às 20h<br>
+                Aos domingos e feriados das 14h às 20h
+
+            </div>
+
+        </div>
+    </div>
+</body>
+</html>
